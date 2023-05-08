@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.f62197b3.js",
-    "index.html": "/index.html",
-    "main.f62197b3.js.map": "/static/js/main.f62197b3.js.map"
+    "main.js": "/First-react-task/static/js/main.f62197b3.js",
+    "index.html": "/First-react-task/index.html",
+    "main.f62197b3.js.map": "/First-react-task/static/js/main.f62197b3.js.map"
   },
   "entrypoints": [
     "static/js/main.f62197b3.js"
